@@ -1,4 +1,4 @@
-## 🤝 Participantes del Proyecto :
+## 🤝 Participantes del Proyecto
 - Agustín Palma
 - Juan Rojo
 - Juan Siles
